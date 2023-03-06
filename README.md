@@ -4,6 +4,8 @@
 ---
 
 <h2 align="left" bold> About Me
+  
+ ---
 
 <p>🎓 Ich heiße Efendi und bin Junior Front-End-Webentwickler(spezialisiert auf React-Anwendungen ). Ich bin wirklich begeistert davon, neue Dinge zu lernen. 
 <p>👨‍💻Im Jahr 2023 habe ich als Trainee als Web-Developer bei "Neue Fische" begonnen. Gelernt habe ich React, Javascript, Next.js, CSS, HTML5 etc.
